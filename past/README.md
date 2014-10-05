@@ -1,4 +1,0 @@
-BookNotes
-=========
-
-book paper notes
